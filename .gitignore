@@ -1,0 +1,5 @@
+# Project exclude paths
+/metronic-V5.5.5/theme/classic/vendors/handlebars/node_modules/
+/metronic-V5.5.5/theme/classic/vendors/markdown/node_modules/
+/metronic_v6.0.3/theme/classic/assets/vendors/general/handlebars/node_modules/
+/metronic_v6.0.3/theme/classic/assets/vendors/general/markdown/node_modules/
